@@ -10,7 +10,7 @@ const question = [
     },
     {
 
-        question: "هل اسرائيل ارهابية بس السؤال بالعربي ؟",
+        question: "هل اسرائيل ارهابية بس السؤال بالعربي المرادي ؟",
         answers: [
             {text: "اكيد", correct: true},
             {text: "دا كدا كدا", correct: true},
